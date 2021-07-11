@@ -4,3 +4,12 @@ npm i --save-dev supertest mocha chai @babel/cli @babel/core @babel/node @babel/
 gorest.com 
 with access token
 
+
+// data for post request
+
+{
+      "email": "test@test.com",
+	  "name": "stanlolo",
+	  "gender": "male",
+	  "status": "active"
+}
